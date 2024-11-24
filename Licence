@@ -1,8 +1,0 @@
-# Intasend-java-sdk
-
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-
-A simple java sdk for IntaSend api, for now it only supports mpesa stk push but it'll be updated in the future.
-
-## License
-This project is licensed under the terms of the [Apache License 2.0](LICENSE).
